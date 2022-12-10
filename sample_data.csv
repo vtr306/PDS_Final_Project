@@ -1,0 +1,2 @@
+,normal,ecg_duration,number_of_beats,mean_qrs_amplitude,standard_deviation_r_amplitude,mean_rr_interval,standard_deviation_rr_interval
+0,0,60.0,102,-0.3922,0.9244,0.5869,0.1532
